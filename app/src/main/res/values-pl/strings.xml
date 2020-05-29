@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SuppliesApp</string>
+
+    <string name="filter_by_category">Pokaż kategorie</string>
+    <string name="filter_show_all">Wszystkie</string>
+
+    <string name="add_new_category">Dodaj nową kategorie</string>
+    <string name="add_new_location_details_name">Dodaj nową nazwe</string>
+
+    <string name="item_name">Nazwa</string>
+    <string name="item_name_missing">Brak nazwy</string>
+    <string name="item_barcode">Kod kreskowy</string>
+    <string name="item_barcode_missing">Brak kodu kreskowego</string>
+    <string name="item_category">Kategoria</string>
+    <string name="item_category_missing">Brak kategori</string>
+    <string name="item_packaging">Pakowanie</string>
+    <string name="item_packaging_missing">Brak pakowania</string>
+    <string name="item_total_count">Ilość całkowita</string>
+    <string name="item_total_count_missing">0</string>
+    <string name="item_save_and_add_location">Zapisz i dodaj lokacje</string>
+    <string name="location_name">Nazwa</string>
+    <string name="location_name_missing">Brak nazwy</string>
+    <string name="location_count">Ilość</string>
+    <string name="location_count_missing">0</string>
+    <string name="location_exp_date">Termin przydatności</string>
+    <string name="location_exp_date_missing">Brak terminu</string>
+    <string name="save">Zapisz</string>
+
+    <string name="info_synchronization_completed">Baza przedmiotów została uaktulniona</string>
+    <string name="error_no_barcode_scanner_available">Brak aplikacji do kodów kreskowych w systemie</string>
+    <string name="error_scan_cancelled">Skanowanie przerwane</string>
+    <string name="error_missing_id">Brak id przedmiotu</string>
+    <string name="error_connection">Proszę sprawdź swoje połączenie\ni ponownie uruchom aplikację</string>
+</resources>

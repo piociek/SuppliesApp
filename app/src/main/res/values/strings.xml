@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SuppliesApp</string>
+
+    <string name="filter_by_category">Show category</string>
+    <string name="filter_show_all">All</string>
+
+    <string name="add_new_category">Add new category</string>
+    <string name="add_new_location_details_name">Add new name</string>
+
+    <string name="item_name">Name</string>
+    <string name="item_name_missing">Name missing</string>
+    <string name="item_barcode">Barcode</string>
+    <string name="item_barcode_missing">Barcode not set</string>
+    <string name="item_category">Category</string>
+    <string name="item_category_missing">Category not set</string>
+    <string name="item_packaging">Packaging</string>
+    <string name="item_packaging_missing">Packaging not set</string>
+    <string name="item_total_count">Total count</string>
+    <string name="item_total_count_missing">0</string>
+    <string name="item_save_and_add_location">Save and add location</string>
+    <string name="location_name">Name</string>
+    <string name="location_name_missing">Name missing</string>
+    <string name="location_count">Count</string>
+    <string name="location_count_missing">0</string>
+    <string name="location_exp_date">Expire date</string>
+    <string name="location_exp_date_missing">Expire date not set</string>
+    <string name="save">Save</string>
+
+    <string name="info_synchronization_completed">Items data synchronized</string>
+    <string name="error_no_barcode_scanner_available">No bar code scanner available in system</string>
+    <string name="error_scan_cancelled">Scan cancelled</string>
+    <string name="error_missing_id">Item id is missing</string>
+    <string name="error_connection">Please check your connection\nand restart the app</string>
+</resources>
